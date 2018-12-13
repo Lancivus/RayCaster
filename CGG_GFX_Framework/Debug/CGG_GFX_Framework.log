@@ -1,0 +1,8 @@
+﻿  Main.cpp
+\\bournemouth.ac.uk\data\student\home\scitech\s4915540\cgg_gfx_framework_v1-1\cgg_gfx_framework\sphere.h(25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\bournemouth.ac.uk\data\student\home\scitech\s4915540\cgg_gfx_framework_v1-1\cgg_gfx_framework\main.cpp(51): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  CGG_GFX_Framework.vcxproj -> \\bournemouth.ac.uk\data\Student\Home\SciTech\s4915540\CGG_GFX_Framework_v1-1\Debug\CGG_GFX_Framework.exe
